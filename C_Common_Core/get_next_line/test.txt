@@ -1,0 +1,1 @@
+AI-generated;suggestions;were;reviewed and studied before being integrated.;The final;implementation was tested,;analyzed,;and;adapted;for the;requirements;of;the;project.
